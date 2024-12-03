@@ -36,7 +36,7 @@
      - Mencintai tanah air dan bangsa Indonesia.
      - Mengembangkan persatuan Indonesia atas dasar Bhinneka Tunggal Ika.
      - Memajukan pergaulan demi persatuan dan kesatuan bangsa.
-   - Sila ke-4 = menjamin partisipasi politik warga negara yang diwujudkan dalam bentuk kebebasan berpendapat dan berorganisasi serta hak berpartisipasi dalam pemilihan umum.       <br>
+   - Sila ke-4 = Menjamin partisipasi politik warga negara yang diwujudkan dalam bentuk kebebasan berpendapat dan berorganisasi serta hak berpartisipasi dalam pemilihan umum.       <br>
      Kewajiban:
      - Mengutamakan musyawarah mufakat dalam setiap pengambilan keputusan.
      - Tidak memaksakan kehendak kepada orang lain.
