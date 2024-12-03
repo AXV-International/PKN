@@ -41,7 +41,7 @@
      - Mengutamakan musyawarah mufakat dalam setiap pengambilan keputusan.
      - Tidak memaksakan kehendak kepada orang lain.
      - Memberikan kepercayaan kepada wakil-wakil rakyat yang telah terpilih untuk melaksanakan musyawarah dan menjalankan tugas sebaik-baiknya.
-   - Sila ke-5 =  mengakui hak milik perorangan dan dilindungi pemanfaatannya oleh negara serta memberi kesempatan sebesar-besarnya kepada masyarakat.<br>
+   - Sila ke-5 =  Mengakui hak milik perorangan dan dilindungi pemanfaatannya oleh negara serta memberi kesempatan sebesar-besarnya kepada masyarakat.<br>
      Kewajiban:
      - Mengembangkan sikap gotong royong dan kekeluargaan dengan masyarakat di lingkungan sekitar.
      - Tidak melakukan perbuatan yang merugikan kepentingan umum.
