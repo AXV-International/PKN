@@ -48,20 +48,20 @@
      - Suka bekerja keras.
       
 2. Hak dan Kewajiban Warga Negara dalam Nilai Instrumental Sila-Sila Pancasila
-- Hak atas kewarganegaraan
-- Kesamaan kedudukan dalam hukum dan pemerintahan
-- Hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan
-- Hak dan kewajiban bela negara
-- Kemerdekaan berserikat dan berkumpul
-- Kemerdekan memeluk agama
-- Pertahanan dan keamanan negara
-- Hak mendapat pendidikan
-- Kebudayaan nasional Indonesia
-- Perekonomian nasional
-- Kesejahteraan sosial
+   - Hak atas kewarganegaraan
+   - Kesamaan kedudukan dalam hukum dan pemerintahan
+   - Hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan
+   - Hak dan kewajiban bela negara
+   - Kemerdekaan berserikat dan berkumpul
+   - Kemerdekan memeluk agama
+   - Pertahanan dan keamanan negara
+   - Hak mendapat pendidikan
+   - Kebudayaan nasional Indonesia
+   - Perekonomian nasional
+   - Kesejahteraan sosial
   
 3. Hak dan Kewajiban Warga Negara dalam Nilai Praksis Sila-Sila Pancasila
-- Dapat terwujud apabila nilai-nilai dasar dan instrumental dari Pancasila itu sendiri dapat dilaksanakan dalam kehidupan sehari-hari oleh seluruh warga negara.
+   - Dapat terwujud apabila nilai-nilai dasar dan instrumental dari Pancasila itu sendiri dapat dilaksanakan dalam kehidupan sehari-hari oleh seluruh warga negara.
 
 ## Kasus Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
 1. Penyebab Terjadinya Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
