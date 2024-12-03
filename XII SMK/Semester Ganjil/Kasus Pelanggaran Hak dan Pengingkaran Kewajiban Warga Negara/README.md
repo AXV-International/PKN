@@ -22,7 +22,7 @@
      Kewajiban:
      - Membina kerja sama dan tolong-menolong dengan pemeluk agama lain sesuai dengan situasi dan kondisi di lingkungan masing-masing.
      - Mengembangkan toleransi antarumat beragama menuju terwujudnya kehidupan yang serasi, selaras, dan seimbang.
-     - tidak memaksakan suatu agama dan kepercayaan kepada orang lain.
+     - Tidak memaksakan suatu agama dan kepercayaan kepada orang lain.
    - Sila ke-2 = Menempatkan hak setiap warga negara pada kedudukan yang sama dalam hukum serta memiliki hak-hak yang sama untuk mendapat jaminan dan perlindungan hukum.<br>
      Kewajiban:
      - Memperlakukan orang lain sesuai harkat dan martabatnya sebagai makhluk ciptaan Tuhan Yang Maha Esa.
