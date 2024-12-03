@@ -91,5 +91,4 @@
    - Meningkatkan penyebarluasan prinsip-prinsip kesadaran bernegara.
      
 2. Membangun Partisipasi Masyarakat dalam Pencegahan Terjadinya Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
-   - Sebagai warga negara sepantasnya sikap dan perilaku mencerminkan sosok manusia beradab yang selalu menghormati keberadaan orang lain.
-   - Sikap tersebut dapat ditampilkan dalam perilaku di lingkungan keluarga, sekolah, masyarakat, bangsa, dan negara.
+   - Sebagai warga negara sepantasnya sikap dan perilaku mencerminkan sosok manusia beradab yang selalu menghormati keberadaan orang lain yang dapat ditampilkan dalam perilaku      sehari-hari.
