@@ -1,7 +1,11 @@
 # Pengaruh Kemajuan IPTEK Terhadap NKRI
 ## Peta Konsep
 Pengaruh Kemajuan IPTEK terhadap Negara Kesatuan Republik Indonesia
-1. 
+1. Sikap selektif dalam menghadapi berbagai pengaruh kemajuan IPTEK
+   - Sikap tanggung jawab dalam perkembangan IPTEK
+   - Sikap selektif terhadap pengaruh kemajuan IPTEK
+2. Hakikat IPTEK dan perkembangan IPTEK didunia dan diIndonesia
+   - Pengaruh posistif dan negatif kemajuan IPTEK terhadap NKRI dibidang ekonomi, sosial budaya, dan pendidikan
 ## Pengaruh Kemajuan IPTEK Terhadap Negara Kesatuan Republik Indonesia
 - IPTEK adalah singkatan dari `Ilmu Pengetahuan dan Teknologi`.
 - Kemajuan IPTEK memberikan pengaruh positif dan negatif terhadap NKRI, seperti memudahkan komunikasi dan transportasi serta mendorong tumbuhnya kelas menengah dan kerjasama ekonomi regional.
